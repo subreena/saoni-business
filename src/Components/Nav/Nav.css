@@ -1,0 +1,37 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+li{
+    padding: 0 10px;
+}
+li> a{
+    text-decoration: None;
+    color: white;
+    font-weight: 500;
+    text-transform: capitalize;
+
+
+}
+li>a:hover{
+    color: white;
+    text-decoration: underline;
+}
+nav{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 70px;
+   padding: 10px 20px;
+   margin-bottom: 10px;
+  
+}
+
+.brand{
+   color: #f50056bb;
+   padding: 10px;
+   font-size: 40px;
+   text-transform: uppercase;
+   font-weight: 700;
+}

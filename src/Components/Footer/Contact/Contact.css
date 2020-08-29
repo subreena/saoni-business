@@ -1,0 +1,33 @@
+.contact{
+    background-color: #d8787a;
+    padding: 50px 20px;
+    margin: 50px 0;
+}
+
+.form{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 4%;
+    border-radius: 10px;
+    color:#f50057;
+}
+.contact-text{
+    color: white;
+    padding: 5%;
+    
+}
+.contact-text h5{
+    letter-spacing:4px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.contact-text h3{
+    font-weight: 700;
+    text-transform: Capitalize;
+}
+
+.form Button{
+    width: 100%;
+    margin: 10px auto;
+}

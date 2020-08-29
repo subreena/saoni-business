@@ -1,0 +1,26 @@
+.service-text h5{
+    color:#f50057;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+.service-text h2{
+    text-transform: capitalize;
+    font-weight:700;
+
+}
+
+.service-text{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.image-col img{
+    height: 400px;
+}
+
+.service-col{
+    margin: 30px auto;
+}

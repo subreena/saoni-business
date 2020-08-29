@@ -1,0 +1,23 @@
+.header{
+    background-color: #d8787a;
+    height: 100vh;
+    margin-bottom: 50px;
+    padding: 20px;
+   
+}
+.header-banner{
+    display: flex;
+    align-items: center;
+    padding-top: 70px;
+}
+.header-text h3{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 34px;
+}
+
+.header-text p{
+    color: white;
+
+}
